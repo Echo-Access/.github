@@ -82,4 +82,4 @@ As we look to the future, our focus is on:
 - Collaborating with users and stakeholders to gather feedback and iterate on the design and functionality of the add-on.
 - Promoting awareness and adoption of the add-on within the Google Meet community to maximize its impact and reach.
 
-Our journey doesn't end here. PsycheSail will continue evolving, guided by our commitment to providing comprehensive and effective mental health support for students.
+Our journey doesn't end here. Echo Access will continue evolving, guided by our commitment to providing comprehensive and effective mental health support for students.
