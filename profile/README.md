@@ -1,30 +1,20 @@
-# Echo Access: Google Meet Add-On
+# Echo Access - Google Meet Add-On
 
 ## Overview
 
-Welcome to the Echo Access Google Meet Add-On project! Our mission is to enhance accessibility and inclusivity in online meetings by integrating the features of our Echo Access platform directly into Google Meet. With this add-on, users will have seamless access to sign language conversion, image-to-text translation, and real-time voice-to-text conversion during their Google Meet sessions.
-
-- [Contributors:](#contributors)
-- [Table of Contents](#table-of-contents)
-- [Inspiration](#inspiration)
-- [Goals](#goals)
-- [Built With](#built-with)
-- [Challenges](#challenges)
-- [Accomplishments](#accomplishments)
-- [What We Learned](#what-we-learned)
-- [What's Next](#whats-next)
+Echo Access is a Google Meet Add-On focused on enhancing accessibility and inclusivity in online meetings, with a primary focus on individuals with physical disabilities. It aims to break communication barriers and foster inclusivity by providing innovative features such as Sign Language to Text conversion, Image to Text conversion, and real-time Voice to Text conversion in various languages.
 
 ## Contributors:
 
-1. Suthapalli Naga Satya Sridhar - [sridharsuthapalli@gmail.com](mailto:sridharsuthapalli@gmail.com) - 9491426837
-2. Chitta Sri Sankara Naga Pavana Saketha Ram - [pavan.sakethram@gmail.com](mailto:pavan.sakethram@gmail.com) - 9182065156
-3. Roopesh S - [roopesh1724989@gmail.com](mailto:roopesh1724989@gmail.com) - 9944099546
-4. Gnanendra Raghava - [raghavakamuju@gmail.com](mailto:raghavakamuju@gmail.com) - 8341339261
+1. [Suthapalli Naga Satya Sridhar](https://www.linkedin.com/in/suthapalli-naga-satya-sridhar-4a991224a/)
+2. [Chitta Sri Sankara Naga Pavana Saketha Ram](https://www.linkedin.com/in/chitta-sri-sankara-naga-pavana-saketha-ram-61a821212/)
+3. [Roopesh S](https://www.linkedin.com/in/s-roopesh-39934229a/)
+4. [Gnanendra Raghava](https://www.linkedin.com/in/kamuju-gnanendra-raghava-6766b726b/)
 
 ## Table of Contents
 
 - [Overview](#overview)
-- [Contributors:](#contributors)
+- [Contributors](#contributors)
 - [Table of Contents](#table-of-contents)
 - [Inspiration](#inspiration)
 - [Goals](#goals)
@@ -33,53 +23,70 @@ Welcome to the Echo Access Google Meet Add-On project! Our mission is to enhance
 - [Accomplishments](#accomplishments)
 - [What We Learned](#what-we-learned)
 - [What's Next](#whats-next)
+- [Conclusion](#conclusion)
 
 ## Inspiration
 
-The inspiration behind this project stems from our commitment to breaking communication barriers and fostering inclusivity. By integrating our Echo Access platform with Google Meet, we aim to make online meetings more accessible for individuals with disabilities, ensuring that everyone can participate fully and effectively.
+Echo Access was inspired by the pressing need to address the communication challenges faced by individuals with physical disabilities, especially in the context of online meetings. We recognized the importance of creating a platform that enables seamless communication and fosters inclusivity for all participants.
 
 ## Goals
 
-Our goals for the Echo Access Google Meet Add-On include:
-- Seamlessly integrating sign language conversion, image-to-text translation, and real-time voice-to-text conversion into Google Meet.
-- Enhancing accessibility and inclusivity in online meetings for individuals with disabilities.
-- Providing a user-friendly and intuitive interface for easy access to inclusive features during Google Meet sessions.
+### Key objectives of Echo Access include:
+
+- Enabling easy communication for individuals with physical disabilities.
+- Breaking down barriers through innovative features such as Sign Language to Text conversion and Image to Text conversion.
+- Ensuring real-time Voice to Text conversion in multiple languages for enhanced accessibility.
 
 ## Built With
 
-Our Google Meet Add-On is built with the following technologies:
-- Google Meet API for integration with the Google Meet platform.
-- Firebase for real-time data synchronization and storage.
-- MediaPipe for sign language conversion and image-to-text translation.
-- TensorFlow for voice-to-text conversion.
-- Flask for backend development and API integration.
+- **Google Meet Add-On Platform:**
+  - Provides the foundation for integrating Echo Access seamlessly into Google Meet.
+  
+- **Google Cloud Platform:**
+  - Hosts and supports the backend infrastructure required for real-time data processing and conversion.
+
+- **MediaPipe:**
+  - Powers Hand Signs Language to Text conversion, ensuring inclusivity for users communicating via sign language.
+
+- **Blockchain (Solidity, IPFS, HardHat):**
+  - Ensures secure storage of sensitive data, such as user conversations and transcripts.
 
 ## Challenges
 
-Integrating our Echo Access features into Google Meet presented several challenges, including:
-- Ensuring seamless compatibility and performance within the Google Meet environment.
-- Implementing real-time data synchronization between Google Meet and our Firebase backend.
-- Optimizing resource utilization for efficient processing of sign language, images, and voice data during Google Meet sessions.
+Building Echo Access presented various challenges, including:
+
+- Implementing real-time data processing and conversion.
+- Ensuring compatibility and seamless integration with Google Meet.
+- Addressing security concerns related to data privacy and confidentiality.
 
 ## Accomplishments
 
-Some of our key accomplishments with the Echo Access Google Meet Add-On include:
-- Successful integration of sign language conversion, image-to-text translation, and voice-to-text conversion into the Google Meet interface.
-- Real-time data synchronization and storage using Firebase, ensuring consistent and reliable access to inclusive features during Google Meet sessions.
-- Positive feedback and user engagement, indicating the effectiveness and usability of our add-on in enhancing accessibility and inclusivity in online meetings.
+Key achievements of Echo Access include:
+
+- Successful integration with the Google Meet platform.
+- Implementation of innovative features for enhanced accessibility.
+- Positive feedback from users regarding usability and effectiveness.
 
 ## What We Learned
 
-Throughout the development of this project, we gained valuable insights into:
-- API integration and development within the Google Meet platform.
-- Optimizing performance and resource utilization for real-time data processing.
-- Designing and implementing accessible user interfaces for individuals with disabilities.
+Throughout the development process, we gained valuable insights into:
+
+- The importance of inclusive design principles.
+- The complexities of real-time data processing and conversion.
+- The significance of user feedback in refining and improving the platform.
 
 ## What's Next
 
-As we look to the future, our focus is on:
-- Expanding the functionality of our Google Meet Add-On to include additional features and capabilities for enhanced accessibility and inclusivity.
-- Collaborating with users and stakeholders to gather feedback and iterate on the design and functionality of the add-on.
-- Promoting awareness and adoption of the add-on within the Google Meet community to maximize its impact and reach.
+As we move forward, our focus will be on:
 
-Our journey doesn't end here. Echo Access will continue evolving, guided by our commitment to providing comprehensive and effective mental health support for students.
+- Further refining and optimizing the platform for better performance and usability.
+- Expanding the range of supported languages for Voice to Text conversion.
+- Enhancing security measures to ensure data privacy and confidentiality.
+
+## Conclusion
+
+In conclusion, the Echo Access Google Meet Add-On represents a significant step towards enhancing accessibility and inclusivity in online meetings, particularly for individuals with physical disabilities. Our commitment to breaking communication barriers and fostering inclusivity remains unwavering, and we recognize that our project is just the beginning of a journey towards greater accessibility.
+
+As we continue to iterate and improve upon our Google Meet Add-On, we are dedicated to listening to feedback from users and stakeholders, incorporating new features and capabilities, and expanding the reach of our solution. Our project will evolve and continue to improve as we progress, ensuring that individuals with physical disabilities can participate fully and effectively in online meetings.
+
+Thank you for joining us on this journey towards a more accessible and inclusive future for all.
